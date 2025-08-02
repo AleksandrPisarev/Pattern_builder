@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Egor\\Desktop\\\u0432\u0441\u0435 \u0434\u043E\u043C\u0430\u0448\u043A\u0438\\Pattern_builder\\Pattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{208BCD0B-8D67-4D8A-970F-391D2CD07C96}|Pattern.vcxproj|C:\\Users\\Egor\\Desktop\\\u0432\u0441\u0435 \u0434\u043E\u043C\u0430\u0448\u043A\u0438\\Pattern_builder\\Pattern\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{208BCD0B-8D67-4D8A-970F-391D2CD07C96}|Pattern.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208BCD0B-8D67-4D8A-970F-391D2CD07C96}|Pattern.vcxproj|C:\\Users\\Egor\\Desktop\\\u0432\u0441\u0435 \u0434\u043E\u043C\u0430\u0448\u043A\u0438\\Pattern_builder\\Pattern\\BuilderHouseManual.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{208BCD0B-8D67-4D8A-970F-391D2CD07C96}|Pattern.vcxproj|solutionrelative:BuilderHouseManual.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208BCD0B-8D67-4D8A-970F-391D2CD07C96}|Pattern.vcxproj|C:\\Users\\Egor\\Desktop\\\u0432\u0441\u0435 \u0434\u043E\u043C\u0430\u0448\u043A\u0438\\Pattern_builder\\Pattern\\BuilderHouseManual.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{208BCD0B-8D67-4D8A-970F-391D2CD07C96}|Pattern.vcxproj|solutionrelative:BuilderHouseManual.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208BCD0B-8D67-4D8A-970F-391D2CD07C96}|Pattern.vcxproj|C:\\Users\\Egor\\Desktop\\\u0432\u0441\u0435 \u0434\u043E\u043C\u0430\u0448\u043A\u0438\\Pattern_builder\\Pattern\\Builder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{208BCD0B-8D67-4D8A-970F-391D2CD07C96}|Pattern.vcxproj|solutionrelative:Builder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208BCD0B-8D67-4D8A-970F-391D2CD07C96}|Pattern.vcxproj|C:\\Users\\Egor\\Desktop\\\u0432\u0441\u0435 \u0434\u043E\u043C\u0430\u0448\u043A\u0438\\Pattern_builder\\Pattern\\House.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{208BCD0B-8D67-4D8A-970F-391D2CD07C96}|Pattern.vcxproj|solutionrelative:House.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208BCD0B-8D67-4D8A-970F-391D2CD07C96}|Pattern.vcxproj|C:\\Users\\Egor\\Desktop\\\u0432\u0441\u0435 \u0434\u043E\u043C\u0430\u0448\u043A\u0438\\Pattern_builder\\Pattern\\Director.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{208BCD0B-8D67-4D8A-970F-391D2CD07C96}|Pattern.vcxproj|solutionrelative:Director.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208BCD0B-8D67-4D8A-970F-391D2CD07C96}|Pattern.vcxproj|C:\\Users\\Egor\\Desktop\\\u0432\u0441\u0435 \u0434\u043E\u043C\u0430\u0448\u043A\u0438\\Pattern_builder\\Pattern\\Director.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{208BCD0B-8D67-4D8A-970F-391D2CD07C96}|Pattern.vcxproj|solutionrelative:Director.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208BCD0B-8D67-4D8A-970F-391D2CD07C96}|Pattern.vcxproj|C:\\Users\\Egor\\Desktop\\\u0432\u0441\u0435 \u0434\u043E\u043C\u0430\u0448\u043A\u0438\\Pattern_builder\\Pattern\\BuilderHouse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{208BCD0B-8D67-4D8A-970F-391D2CD07C96}|Pattern.vcxproj|solutionrelative:BuilderHouse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208BCD0B-8D67-4D8A-970F-391D2CD07C96}|Pattern.vcxproj|C:\\Users\\Egor\\Desktop\\\u0432\u0441\u0435 \u0434\u043E\u043C\u0430\u0448\u043A\u0438\\Pattern_builder\\Pattern\\BuilderHouse.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{208BCD0B-8D67-4D8A-970F-391D2CD07C96}|Pattern.vcxproj|solutionrelative:BuilderHouse.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208BCD0B-8D67-4D8A-970F-391D2CD07C96}|Pattern.vcxproj|C:\\Users\\Egor\\Desktop\\\u0432\u0441\u0435 \u0434\u043E\u043C\u0430\u0448\u043A\u0438\\Pattern_builder\\Pattern\\HouseManual.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{208BCD0B-8D67-4D8A-970F-391D2CD07C96}|Pattern.vcxproj|solutionrelative:HouseManual.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208BCD0B-8D67-4D8A-970F-391D2CD07C96}|Pattern.vcxproj|C:\\Users\\Egor\\Desktop\\\u0432\u0441\u0435 \u0434\u043E\u043C\u0430\u0448\u043A\u0438\\Pattern_builder\\Pattern\\HouseManual.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{208BCD0B-8D67-4D8A-970F-391D2CD07C96}|Pattern.vcxproj|solutionrelative:HouseManual.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208BCD0B-8D67-4D8A-970F-391D2CD07C96}|Pattern.vcxproj|C:\\Users\\Egor\\Desktop\\\u0432\u0441\u0435 \u0434\u043E\u043C\u0430\u0448\u043A\u0438\\Pattern_builder\\Pattern\\House.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{208BCD0B-8D67-4D8A-970F-391D2CD07C96}|Pattern.vcxproj|solutionrelative:House.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Director.cpp",
+              "DocumentMoniker": "C:\\Users\\Egor\\Desktop\\\u0432\u0441\u0435 \u0434\u043E\u043C\u0430\u0448\u043A\u0438\\Pattern_builder\\Pattern\\Director.cpp",
+              "RelativeDocumentMoniker": "Director.cpp",
+              "ToolTip": "C:\\Users\\Egor\\Desktop\\\u0432\u0441\u0435 \u0434\u043E\u043C\u0430\u0448\u043A\u0438\\Pattern_builder\\Pattern\\Director.cpp",
+              "RelativeToolTip": "Director.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-02T11:16:22.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Director.h",
+              "DocumentMoniker": "C:\\Users\\Egor\\Desktop\\\u0432\u0441\u0435 \u0434\u043E\u043C\u0430\u0448\u043A\u0438\\Pattern_builder\\Pattern\\Director.h",
+              "RelativeDocumentMoniker": "Director.h",
+              "ToolTip": "C:\\Users\\Egor\\Desktop\\\u0432\u0441\u0435 \u0434\u043E\u043C\u0430\u0448\u043A\u0438\\Pattern_builder\\Pattern\\Director.h",
+              "RelativeToolTip": "Director.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-02T11:16:14.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BuilderHouse.cpp",
+              "DocumentMoniker": "C:\\Users\\Egor\\Desktop\\\u0432\u0441\u0435 \u0434\u043E\u043C\u0430\u0448\u043A\u0438\\Pattern_builder\\Pattern\\BuilderHouse.cpp",
+              "RelativeDocumentMoniker": "BuilderHouse.cpp",
+              "ToolTip": "C:\\Users\\Egor\\Desktop\\\u0432\u0441\u0435 \u0434\u043E\u043C\u0430\u0448\u043A\u0438\\Pattern_builder\\Pattern\\BuilderHouse.cpp",
+              "RelativeToolTip": "BuilderHouse.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-31T17:59:40.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BuilderHouse.h",
+              "DocumentMoniker": "C:\\Users\\Egor\\Desktop\\\u0432\u0441\u0435 \u0434\u043E\u043C\u0430\u0448\u043A\u0438\\Pattern_builder\\Pattern\\BuilderHouse.h",
+              "RelativeDocumentMoniker": "BuilderHouse.h",
+              "ToolTip": "C:\\Users\\Egor\\Desktop\\\u0432\u0441\u0435 \u0434\u043E\u043C\u0430\u0448\u043A\u0438\\Pattern_builder\\Pattern\\BuilderHouse.h",
+              "RelativeToolTip": "BuilderHouse.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-31T17:59:36.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BuilderHouseManual.cpp",
+              "DocumentMoniker": "C:\\Users\\Egor\\Desktop\\\u0432\u0441\u0435 \u0434\u043E\u043C\u0430\u0448\u043A\u0438\\Pattern_builder\\Pattern\\BuilderHouseManual.cpp",
+              "RelativeDocumentMoniker": "BuilderHouseManual.cpp",
+              "ToolTip": "C:\\Users\\Egor\\Desktop\\\u0432\u0441\u0435 \u0434\u043E\u043C\u0430\u0448\u043A\u0438\\Pattern_builder\\Pattern\\BuilderHouseManual.cpp",
+              "RelativeToolTip": "BuilderHouseManual.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-02T12:48:02.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BuilderHouseManual.h",
+              "DocumentMoniker": "C:\\Users\\Egor\\Desktop\\\u0432\u0441\u0435 \u0434\u043E\u043C\u0430\u0448\u043A\u0438\\Pattern_builder\\Pattern\\BuilderHouseManual.h",
+              "RelativeDocumentMoniker": "BuilderHouseManual.h",
+              "ToolTip": "C:\\Users\\Egor\\Desktop\\\u0432\u0441\u0435 \u0434\u043E\u043C\u0430\u0448\u043A\u0438\\Pattern_builder\\Pattern\\BuilderHouseManual.h",
+              "RelativeToolTip": "BuilderHouseManual.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-02T12:47:52.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Builder.h",
+              "DocumentMoniker": "C:\\Users\\Egor\\Desktop\\\u0432\u0441\u0435 \u0434\u043E\u043C\u0430\u0448\u043A\u0438\\Pattern_builder\\Pattern\\Builder.h",
+              "RelativeDocumentMoniker": "Builder.h",
+              "ToolTip": "C:\\Users\\Egor\\Desktop\\\u0432\u0441\u0435 \u0434\u043E\u043C\u0430\u0448\u043A\u0438\\Pattern_builder\\Pattern\\Builder.h",
+              "RelativeToolTip": "Builder.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-31T17:06:24.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HouseManual.cpp",
+              "DocumentMoniker": "C:\\Users\\Egor\\Desktop\\\u0432\u0441\u0435 \u0434\u043E\u043C\u0430\u0448\u043A\u0438\\Pattern_builder\\Pattern\\HouseManual.cpp",
+              "RelativeDocumentMoniker": "HouseManual.cpp",
+              "ToolTip": "C:\\Users\\Egor\\Desktop\\\u0432\u0441\u0435 \u0434\u043E\u043C\u0430\u0448\u043A\u0438\\Pattern_builder\\Pattern\\HouseManual.cpp",
+              "RelativeToolTip": "HouseManual.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-31T17:05:32.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HouseManual.h",
+              "DocumentMoniker": "C:\\Users\\Egor\\Desktop\\\u0432\u0441\u0435 \u0434\u043E\u043C\u0430\u0448\u043A\u0438\\Pattern_builder\\Pattern\\HouseManual.h",
+              "RelativeDocumentMoniker": "HouseManual.h",
+              "ToolTip": "C:\\Users\\Egor\\Desktop\\\u0432\u0441\u0435 \u0434\u043E\u043C\u0430\u0448\u043A\u0438\\Pattern_builder\\Pattern\\HouseManual.h",
+              "RelativeToolTip": "HouseManual.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-31T17:05:29.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "House.cpp",
+              "DocumentMoniker": "C:\\Users\\Egor\\Desktop\\\u0432\u0441\u0435 \u0434\u043E\u043C\u0430\u0448\u043A\u0438\\Pattern_builder\\Pattern\\House.cpp",
+              "RelativeDocumentMoniker": "House.cpp",
+              "ToolTip": "C:\\Users\\Egor\\Desktop\\\u0432\u0441\u0435 \u0434\u043E\u043C\u0430\u0448\u043A\u0438\\Pattern_builder\\Pattern\\House.cpp",
+              "RelativeToolTip": "House.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-31T17:02:16.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "House.h",
+              "DocumentMoniker": "C:\\Users\\Egor\\Desktop\\\u0432\u0441\u0435 \u0434\u043E\u043C\u0430\u0448\u043A\u0438\\Pattern_builder\\Pattern\\House.h",
+              "RelativeDocumentMoniker": "House.h",
+              "ToolTip": "C:\\Users\\Egor\\Desktop\\\u0432\u0441\u0435 \u0434\u043E\u043C\u0430\u0448\u043A\u0438\\Pattern_builder\\Pattern\\House.h",
+              "RelativeToolTip": "House.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-31T17:02:12.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Egor\\Desktop\\\u0432\u0441\u0435 \u0434\u043E\u043C\u0430\u0448\u043A\u0438\\Pattern_builder\\Pattern\\Source.cpp",
+              "RelativeDocumentMoniker": "Source.cpp",
+              "ToolTip": "C:\\Users\\Egor\\Desktop\\\u0432\u0441\u0435 \u0434\u043E\u043C\u0430\u0448\u043A\u0438\\Pattern_builder\\Pattern\\Source.cpp",
+              "RelativeToolTip": "Source.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-31T17:00:59.441Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
